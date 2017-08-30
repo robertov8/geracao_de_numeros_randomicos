@@ -1,0 +1,3 @@
+rootProject.name = 'geracao_de_numeros_randomicos'
+
+include ':app'
